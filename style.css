@@ -1,0 +1,25 @@
+img {
+    max-height: 150px;
+    max-width: 150px;
+}
+
+.link-ref {
+    text-decoration: none;
+    font-size: large;
+    color: deepskyblue;
+}
+
+.emoji-examples li {
+    list-style: circle;
+}
+
+.image-examples {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.image-examples li {
+    list-style: none;
+}
